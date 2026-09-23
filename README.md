@@ -1,1 +1,31 @@
-Last updated: 2026-09-23 16:52:11 WIB
+# Sistem-Informasi-Akademik-Sekolah-Laravel
+
+
+
+## 📋 Overview
+
+This repository contains **1937 files** and is built with the following technologies:
+
+JavaScript, PHP
+
+## 🚀 Quick Start
+
+```bash
+php -S localhost:8000
+```
+
+## ✨ Features
+
+- 🔧 Environment config included
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+JavaScript, PHP
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-23 16:54:02 WIB*
